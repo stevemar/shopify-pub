@@ -1,0 +1,17 @@
+Handle,Title,Body (HTML),Vendor,Standardized Product Type,Custom Product Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / AdWords Grouping,Google Shopping / AdWords Labels,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Price / International,Compare At Price / International,Status
+silent-pond,silent pond,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,7.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+hidden-shadow,hidden shadow,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,9.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+aged-feather,aged feather,"",my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,-4,deny,manual,3.73,,true,true,"",,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+quiet-tree,quiet tree,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,6.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+old-cherry,old cherry,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,10.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+falling-wood,falling wood,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,8.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+weathered-silence,weathered silence,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,2.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+small-rain,small rain,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,5.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+bold-sun,bold sun,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,1.84,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+summer-hill,summer hill,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,1.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+snowy-pine,snowy pine,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,2.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+silent-star,silent star,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,1.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+cool-fog,cool fog,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,-1,deny,manual,9.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+sparkling-shadow,sparkling shadow,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,8.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+bitter-field,bitter field,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,9.46,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
+wild-pine,wild pine,,my-test-store,,,"",true,Title,Default Title,,,,,"",0.0,,0,deny,manual,9.00,,true,true,,,,,false,,,,,,,,,,,,,,,,,kg,,,,,active
